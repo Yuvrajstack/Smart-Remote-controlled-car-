@@ -1,4 +1,3 @@
-# Smart-Remote-Controlled-Car
 # 🚗 Smart Car Object Detection
 
 This project implements a **real-time object detection system for smart cars**, capable of identifying and tracking objects on the road using deep learning. It processes video feeds and outputs annotated frames highlighting detected objects to assist with autonomous driving or driver-assist systems.
